@@ -1,4 +1,4 @@
-(https://explorer.aspirecharity.org/images/logo.png)
+![Logo] (https://explorer.aspirecharity.org/images/logo.png)
 
 
 # aspire Masternode Setup Guide (Ubuntu 16.04)
