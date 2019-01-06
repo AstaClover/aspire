@@ -104,7 +104,7 @@ If you require further assistance contact the support team @ [Discord]()
 * Paste the code below into the Bitvise terminal then press enter (it will just go to a new line)
 ![Example-RootPassEnter](https://i.imgur.com/vuDtUVj.png)
 
-`wget -N https://raw.githubusercontent.com/AstaClover/peginnstall/master/installaspire.sh`
+`wget -N https://raw.githubusercontent.com/AstaClover/aspire/master/install.sh`
 ***
 
 ***Step 8***
