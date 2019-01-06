@@ -110,7 +110,7 @@ If you require further assistance contact the support team @ [Discord]()
 ***Step 8***
 * Paste the code below into the Bitvise terminal then press enter
 
-`bash installaspire.sh`
+`bash install.sh`
 
 ![Example-Bash](https://i.imgur.com/myvmKTE.png)
 
